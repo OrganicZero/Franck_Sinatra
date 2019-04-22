@@ -1,8 +1,11 @@
+Projet de Jules Dajon
+
+
 Sur notre site vous aurez accès à :
 
-La page d'accueil du site affichera tous les potins que nous avons en base.
+La page d'accueil du site qui affichera tous les potins que nous avons en base.
 
-Cette page d'accueil donnera un lien pour un formulaire où quiconque pourra ajouter un potin en base.
+Cette page d'accueil donnera un lien pour un formulaire où quiconque pourra ajouter un potin.
 
 Chaque potin aura une page dédiée.
 
