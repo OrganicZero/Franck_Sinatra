@@ -18,3 +18,5 @@ Définir des routes et endpoints dans ton application ;
 Utiliser les views pour gérer plus facilement le HTML / CSS ;
 Créer et avoir une base de données ;
 Récupérer de l'information à partir de formulaires et la stocker en base de données.
+
+Pose toi dans mon repo OKLM est vas sur ce lien http://localhost:4567/
