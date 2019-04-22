@@ -1,0 +1,21 @@
+
+<!doctype html>
+<html lang="fr">
+	<head>
+  		<meta charset="utf-8">
+  		<title>Potins</title>
+	</head>
+	<body>
+		<h1>PAGE POTIN</h1>
+		    <p>Voici la page du potin n° <%= params['id'] %> </p>
+		    <p>Son auteur :</p>
+    <p>
+      <%= gossips.author %>
+    </p>
+    <p>Son potin :</p>
+    <p>
+      <%= gossips.content %>
+    </p>
+    <a href="/">Revenir à la page des potins</a>
+  </body>
+</html>
